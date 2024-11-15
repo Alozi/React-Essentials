@@ -2,7 +2,7 @@
 
 This is a simple demo web application built with React. The goal of this project is to learn how to work with React's core concepts.
 
-<img width="328" alt="Screenshot of the demo web application" src="ttps://github.com/Alozi/01-starting-project/src/assets/screencapture.png">
+<img width="328" alt="Screenshot of the demo web application" src="https://github.com/Alozi/01-starting-project/src/assets/screencapture.png">
 
 
 This project was created as part of the Udemy course [React - The Complete Guide 2024 (incl. Next.js, Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/).
